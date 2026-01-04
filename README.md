@@ -1,4 +1,3 @@
-<img width="1920" height="1020" alt="530210972-f6f03bdc-d442-40b7-a5fd-975938581dfc" src="https://github.com/user-attachments/assets/58e1d7fc-d2b0-4c9c-a5ad-1a36aced0ef1" /># Ex09 Event Registration Web Application
 ## Date:
 
 ## AIM:
